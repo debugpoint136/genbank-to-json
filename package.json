@@ -1,7 +1,7 @@
 {
   "name": "test-run",
   "version": "1.0.0",
-  "author" : "Deepak Purushotham",
+  "author": "Deepak Purushotham",
   "description": "Data wrangling node.js script to convert Genbank files to JSON",
   "main": "index.js",
   "scripts": {
